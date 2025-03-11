@@ -1,12 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: User
 metadata:
-  name: joao.silva
-  annotations:
-    github.com/user-login: joaosilva
+  name: admin
 spec:
   profile:
-    displayName: João Silva
-    email: joao.silva@empresa.com
+    displayName: Admin
+    email: admin@admin.com	
     picture: https://avatars.githubusercontent.com/joaosilva
-  memberOf: [team-dev]
+  memberOf: [admin]
