@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: devloper-hub-all-templates
+  description: A collection of all Developer Hub templates
+spec:
+  targets:
+    - ./system.yaml
