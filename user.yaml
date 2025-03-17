@@ -5,6 +5,6 @@ metadata:
 spec:
   profile:
     displayName: Usuário Admin
-    email: admin@admin.com	
+    email: 	u-admin@u-admin.com
     picture: https://avatars.githubusercontent.com/joaosilva
   memberOf: [admin]
